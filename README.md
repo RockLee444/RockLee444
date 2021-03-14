@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 I'm a student of Software Engineering! 
-- 🔭 I’m currently working on learning more!
-- 🌱 I’m currently learning concurrent programming! 
+- 🔭 I’m currently working on learning mobile app development!
+- 🌱 I’m currently learning basics of AI! 
 
 <!--
 **RockLee444/RockLee444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
